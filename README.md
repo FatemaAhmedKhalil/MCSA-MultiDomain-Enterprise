@@ -25,3 +25,8 @@ This project demonstrates the design and implementation of a complex Windows Ser
 ### 4. Network & Web Services
 * **Infrastructure Services:** Integrated **DNS** for fault-tolerant name resolution and a **DHCP** scope for automated client IP assignment.
 * **Web Hosting:** Deployed **Internet Information Services (IIS)** to host multiple web portals (www.web1.com and www.web2.com) using host headers on a single IP address
+
+---
+
+## 📁 Project Documentation
+![Topology](https://github.com/FatemaAhmedKhalil/MCSA-MultiDomain-Enterprise/blob/main/final.pdf).
